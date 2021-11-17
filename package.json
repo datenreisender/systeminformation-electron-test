@@ -1,0 +1,12 @@
+{
+  "name": "systeminformation-electron-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "16.0.0",
+    "systeminformation": "5.9.13"
+  }
+}
