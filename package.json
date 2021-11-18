@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "electron": "16.0.0",
-    "systeminformation": "5.9.13"
+    "systeminformation": "github:sebhildebrandt/systeminformation#b8b197969411b94d9cad847562773a2aafd910bf"
   }
 }
